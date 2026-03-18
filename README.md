@@ -11,20 +11,20 @@ I’m passionate about building scalable, user-centric platforms that blend **AI
 ### 🛒 FreshMart E-commerce Website
 - Responsive UI built with **React.js** for seamless shopping.
 - Efficient order management and modern CSS styling.
-- [GitHub Repo](https://github.com/AsifAlthaf/FreshMart) *(replace with actual repo link)*
+- [GitHub Repo](https://github.com/AsifAlthaf/FSD-PROJECT)
 
 ### 🎨 Art Bloom
 - Dynamic **MERN stack** platform for showcasing and selling digital art.
 - Integrated **JWT authentication**, **Cloudinary media handling**, and custom REST APIs.
 - Mobile application completed with personalized billing workflows.
-- [GitHub Repo](https://github.com/AsifAlthaf/ArtBloom) *(replace with actual repo link)*
+- [GitHub Repo](https://github.com/AsifAlthaf/artgallery) 
 
 ### 📱 Mind Vault – AI-Driven Mobile App
 - Privacy-focused Android app with **AI chat, journaling, and finance tracking**.
 - Built using **Kotlin + Room DB**, with **Firebase authentication**.
 - Offline-first design with intelligent fallback between online/offline AI modes.
 - Integrated **OPENROUTER API** for AI chat and journal reflection.
-- [GitHub Repo](https://github.com/AsifAlthaf/MindVault) *(replace with actual repo link)*
+- [GitHub Repo](https://github.com/AsifAlthaf/Mind-Vault) 
 
 ### 🩺 VECTRA – Health Assistant (Hackathon Project)
 - Secured **2nd Prize (₹15,000)** at Vignan University Hackathon.
@@ -50,7 +50,7 @@ I’m passionate about building scalable, user-centric platforms that blend **AI
 ## 🎓 Education
 **Bachelor’s Degree in Computer Science (2022–2026)**  
 SRM University, Andhra Pradesh  
-**CGPA:** 7.89  
+**CGPA:** 8.0  
 
 ---
 
@@ -72,7 +72,7 @@ SRM University, Andhra Pradesh
 ---
 
 ## 📄 Resume
-You can view my full resume here: [ASIF_SHAIK_AI_RESUME.pdf](ASIF_SHAIK_AI_RESUME%20(1).pdf)
+You can view my full resume here: [ASIF_SHAIK_AI_RESUME.pdf](ASIF_SHAIK_AI_RESUME.pdf)
 
 ---
 
