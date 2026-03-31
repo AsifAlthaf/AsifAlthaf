@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asif Shaik
 
-🚀 Full Stack Developer | AI Enthusiast | 
+🚀 CSE Undergrad | Full Stack Developer | AI Enthusiast 
 
 I’m passionate about building scalable, user-centric platforms that blend **AI-assisted development** with strong **software engineering practices**. My journey spans across MERN stack projects, AI-driven mobile apps, and hackathon-winning healthcare solutions.  
 
