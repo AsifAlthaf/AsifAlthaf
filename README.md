@@ -64,10 +64,9 @@ SRM University, Andhra Pradesh
 
 ## 📜 Certifications
 - Google AI Essentials  
-- Associate Developer (Node.js)  
+- Associate Developer (Node.js) - MongoDB University 
 - Postman API Fundamentals Student Expert  
-- Frontend Development (Edunet Foundation & IBM SkillsBuild)  
-- MongoDB (Coursera)  
+- Frontend Development (Edunet Foundation & IBM SkillsBuild)   
 
 ---
 
