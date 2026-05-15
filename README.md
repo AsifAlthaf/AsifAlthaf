@@ -2,42 +2,7 @@
 
 🚀 CSE Undergrad | Full Stack Developer | AI Enthusiast 
 
-I’m passionate about building scalable, user-centric platforms that blend **AI-assisted development** with strong **software engineering practices**. My journey spans across MERN stack projects, AI-driven mobile apps, and hackathon-winning healthcare solutions.  
-
----
-
-## 📂 Featured Projects
-
-### 🛒 FreshMart E-commerce Website
-- Responsive UI built with **React.js** for seamless shopping.
-- Efficient order management and modern CSS styling.
-- [GitHub Repo](https://github.com/AsifAlthaf/FSD-PROJECT)
-
-### 🎨 Art Bloom
-- Dynamic **MERN stack** platform for showcasing and selling digital art.
-- Integrated **JWT authentication**, **Cloudinary media handling**, and custom REST APIs.
-- Mobile application completed with personalized billing workflows.
-- [GitHub Repo](https://github.com/AsifAlthaf/artgallery) 
-
-### 📱 Mind Vault – AI-Driven Mobile App
-- Privacy-focused Android app with **AI chat, journaling, and finance tracking**.
-- Built using **Kotlin + Room DB**, with **Firebase authentication**.
-- Offline-first design with intelligent fallback between online/offline AI modes.
-- Integrated **OPENROUTER API** for AI chat and journal reflection.
-- [GitHub Repo](https://github.com/AsifAlthaf/Mind-Vault) 
-
-### 🩺 VECTRA – Health Assistant (Hackathon Project)
-- Secured **2nd Prize (₹15,000)** at Vignan University Hackathon.
-- Developed a safety-aware healthcare AI system using **Random Forest** and a **guarded RAG pipeline**.
-- Implemented explainable predictions, vector-based retrieval (**Pinecone**), and strict guardrails.
-
----
-
-## 💼 Work Experience
-
-**Web Development Intern – Edunet Foundation (IBM SkillsBuild)**  
-- Built a **Student Portfolio website** with responsive UI using HTML, CSS, and JavaScript.  
-- Improved usability and presentation of academic/professional highlights.  
+I’m passionate about building scalable, user-centric platforms that blend **AI-assisted development** with strong **software engineering practices**. My journey spans across MERN stack projects, Java Backend Development Driven projects, AI integrated projects and mobile apps, and hackathon-winning healthcare solutions.
 
 ---
 
@@ -47,31 +12,11 @@ I’m passionate about building scalable, user-centric platforms that blend **AI
 
 ---
 
-## 🎓 Education
-**Bachelor’s Degree in Computer Science (2022–2026)**  
-SRM University, Andhra Pradesh  
-**CGPA:** 8.0  
-
----
-
-## 🛠 Skills
-- **Languages:** C, C++, Python, Java  
-- **Web Development:** JavaScript, React.js, Express.js, Next.js, Flask  
-- **Databases:** SQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Postman, Firebase, Node.js, LLMs, AI Agents  
-
----
-
 ## 📜 Certifications
 - Google AI Essentials  
 - Associate Developer (Node.js) - MongoDB University 
 - Postman API Fundamentals Student Expert  
 - Frontend Development (Edunet Foundation & IBM SkillsBuild)   
-
----
-
-## 📄 Resume
-You can view my full resume here: [ASIF_SHAIK_AI_RESUME.pdf](ASIF_SHAIK_AI_RESUME.pdf)
 
 ---
 
